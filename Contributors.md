@@ -30,4 +30,4 @@
 
 [Anshul Gupta](https://github.com/anshul1507)
 
-[Pravesh Bisaria](https://github.com/pbisaria007)
+[Pravesh Bisaria](http://praveshbisaria.me/)
